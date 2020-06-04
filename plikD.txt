@@ -1,1 +1,1 @@
-Zmiana w plikD na masterze.
+Dodanie zmiany w plikD na testing
