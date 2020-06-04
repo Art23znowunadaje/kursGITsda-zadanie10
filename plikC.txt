@@ -1,1 +1,1 @@
-Zmiana w plikC na masterze.
+Zmiana w plikC plikC w testing, która będzie na masterze.
